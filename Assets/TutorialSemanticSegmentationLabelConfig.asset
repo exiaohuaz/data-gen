@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9d0176327854820ab53adc46cbec7c1, type: 3}
+  m_Name: TutorialSemanticSegmentationLabelConfig
+  m_EditorClassIdentifier: 
+  m_LabelEntries:
+  - label: cereal_cheerios_honeynut
+    color: {r: 0, g: 0, b: 1, a: 1}
+  - label: craft_yarn_caron_01
+    color: {r: 0, g: 1, b: 0, a: 1}
+  - label: drink_whippingcream_lucerne
+    color: {r: 1, g: 0, b: 0, a: 1}
+  - label: pasta_lasagne_barilla
+    color: {r: 1, g: 1, b: 1, a: 1}
+  - label: cleaning_snuggle_henkel
+    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  - label: candy_minipralines_lindt
+    color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  - label: snack_granolabar_naturevalley
+    color: {r: 1, g: 0.5718362, b: 0.45899487, a: 1}
+  - label: lotion_essentially_nivea
+    color: {r: 1, g: 0.35308328, b: 0.041232884, a: 1}
+  - label: snack_biscotti_ghiott_01
+    color: {r: 0.98583025, g: 0.21580946, b: 1, a: 1}
+  - label: drink_greentea_itoen
+    color: {r: 0.6626964, g: 1, b: 0.38808733, a: 1}
+  - label: 002-001
+    color: {r: 0.38686794, g: 0.311728, b: 1, a: 1}
+  - label: 002-002
+    color: {r: 1, g: 0.5097668, b: 0.37606692, a: 1}
+  - label: 002-003
+    color: {r: 1, g: 0.78714293, b: 0.30815518, a: 1}
+  - label: 002-004
+    color: {r: 1, g: 0.40231383, b: 0.19993031, a: 1}
+  - label: 002-005
+    color: {r: 0.060878694, g: 1, b: 0.23197693, a: 1}
+  - label: 002-006
+    color: {r: 0.03340119, g: 0.51404804, b: 1, a: 1}
+  - label: 002-007
+    color: {r: 0.6919903, g: 0.48837852, b: 1, a: 1}
+  - label: 002-008
+    color: {r: 0.084185064, g: 1, b: 0.7987755, a: 1}
+  - label: 002-009
+    color: {r: 1, g: 0.9647512, b: 0.4757253, a: 1}
+  - label: 002-010
+    color: {r: 0.34615234, g: 0.23056793, b: 1, a: 1}
+  - label: 002-011
+    color: {r: 0.029973924, g: 0.50925004, b: 1, a: 1}
+  - label: 002-012
+    color: {r: 0.9140834, g: 1, b: 0.29357255, a: 1}
+  - label: 002-013
+    color: {r: 0.21266007, g: 0.76840067, b: 1, a: 1}
+  - label: 002-014
+    color: {r: 1, g: 0.5462276, b: 0.018594742, a: 1}
+  - label: 002-015
+    color: {r: 0.99030733, g: 0.26688564, b: 1, a: 1}
+  - label: 002-016
+    color: {r: 1, g: 0.5776852, b: 0.41925102, a: 1}
+  - label: untitled
+    color: {r: 0.47239962, g: 0.25134552, b: 1, a: 1}
+  - label: untitled2
+    color: {r: 0.5863374, g: 0.24690902, b: 1, a: 1}
+  - label: untitled4
+    color: {r: 0.8424723, g: 0.13267803, b: 1, a: 1}
+  - label: untitled5
+    color: {r: 0.36783412, g: 0.2859447, b: 1, a: 1}
+  - label: untitled3
+    color: {r: 1, g: 0.8285674, b: 0.1608578, a: 1}
