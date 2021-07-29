@@ -12,7 +12,7 @@
  The scene also contains a camera, which essentially takes annotated screenshots every frame of the simulation. 
  Put together, it looks like this:
  
- ![noisy scene](/Screenshot 2021-07-28 233932.jpg)
+ ![noisy scene](https://github.com/exiaohuaz/SamplePerception/blob/main/Screenshot%202021-07-28%20233932.jpg?raw=true)
  
  
  ## More Realistic Data
