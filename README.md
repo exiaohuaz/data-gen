@@ -1,5 +1,5 @@
-# SamplePerception
- Unity project for synthetic data generation. Uses Perception package from Unity3D.
+# Synthetic Data Generator
+ Unity project for creating synthetically generated images for object detection and classification. Uses Perception package from Unity3D.
  
  ## Noisy Random Data
  The tutorial for the Perception package sets up a scene with a noisy distracting background and objects placed randomly in front. 
