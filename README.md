@@ -12,7 +12,7 @@
  The scene also contains a camera, which essentially takes annotated screenshots every frame of the simulation. 
  Put together, it looks like this:
  
- ![noisy scene](Screenshot 2021-07-28 233932.jpg)
+ ![noisy scene](/Screenshot 2021-07-28 233932.jpg)
  
  
  ## More Realistic Data
