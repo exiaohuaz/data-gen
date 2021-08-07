@@ -21,6 +21,7 @@ namespace UnityEngine.Perception.Randomization.Randomizers.SampleRandomizers
         public float distance;
 
         public UniformSampler angle_min_max = new UniformSampler(0, 90);
+        public UniformSampler tilt_min_max = new UniformSampler(-90, 90);
 
         /// <summary>
         /// Randomizes the rotation of tagged objects at the start of each scenario iteration
@@ -29,8 +30,11 @@ namespace UnityEngine.Perception.Randomization.Randomizers.SampleRandomizers
         {
             float degrees = angle_min_max.Sample();
             float radians = degrees * Mathf.PI / 180;
+            float tilt = tilt_min_max.Sample();
+            
             prefab.transform.position = new Vector3(0, Mathf.Sin(radians) * distance, -Mathf.Cos(radians) * distance);
-            prefab.transform.rotation = Quaternion.Euler(degrees, 0, 0);
+            prefab.transform.rotation = Quaternion.Euler(degrees, 0, tilt);
+
         }
     }
 }

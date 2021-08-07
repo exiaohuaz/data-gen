@@ -14,66 +14,96 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LabelEntries:
   - label: cereal_cheerios_honeynut
-    id: 0
-  - label: craft_yarn_caron_01
     id: 1
-  - label: drink_whippingcream_lucerne
+  - label: craft_yarn_caron_01
     id: 2
-  - label: pasta_lasagne_barilla
+  - label: drink_whippingcream_lucerne
     id: 3
-  - label: cleaning_snuggle_henkel
+  - label: pasta_lasagne_barilla
     id: 4
-  - label: candy_minipralines_lindt
+  - label: cleaning_snuggle_henkel
     id: 5
-  - label: snack_granolabar_naturevalley
+  - label: candy_minipralines_lindt
     id: 6
-  - label: lotion_essentially_nivea
+  - label: snack_granolabar_naturevalley
     id: 7
-  - label: snack_biscotti_ghiott_01
+  - label: lotion_essentially_nivea
     id: 8
-  - label: drink_greentea_itoen
+  - label: snack_biscotti_ghiott_01
     id: 9
-  - label: 002-001
+  - label: drink_greentea_itoen
     id: 10
-  - label: 002-002
+  - label: 002-001
     id: 11
-  - label: 002-003
+  - label: 002-002
     id: 12
-  - label: 002-004
+  - label: 002-003
     id: 13
-  - label: 002-005
+  - label: 002-004
     id: 14
-  - label: 002-006
+  - label: 002-005
     id: 15
-  - label: 002-007
+  - label: 002-006
     id: 16
-  - label: 002-008
+  - label: 002-007
     id: 17
-  - label: 002-009
+  - label: 002-008
     id: 18
-  - label: 002-010
+  - label: 002-009
     id: 19
-  - label: 002-011
+  - label: 002-010
     id: 20
-  - label: 002-012
+  - label: 002-011
     id: 21
-  - label: 002-013
+  - label: 002-012
     id: 22
-  - label: 002-014
+  - label: 002-013
     id: 23
-  - label: 002-015
+  - label: 002-014
     id: 24
-  - label: 002-016
+  - label: 002-015
     id: 25
-  - label: untitled
+  - label: 002-016
     id: 26
-  - label: untitled2
+  - label: untitled
     id: 27
-  - label: untitled4
+  - label: untitled2
     id: 28
-  - label: untitled5
+  - label: untitled4
     id: 29
-  - label: untitled3
+  - label: untitled5
     id: 30
+  - label: untitled3
+    id: 31
+  - label: front2
+    id: 32
+  - label: front3
+    id: 33
+  - label: fronttwo1
+    id: 34
+  - label: full1
+    id: 35
+  - label: full2
+    id: 36
+  - label: full3
+    id: 37
+  - label: fronttwo2
+    id: 38
+  - label: fronttwo3
+    id: 39
+  - label: back1
+    id: 40
+  - label: back2
+    id: 41
+  - label: back3
+    id: 42
+  - label: front1
+    id: 43
+  - label: mid1
+    id: 44
+  - label: mid2
+    id: 45
+  - label: mid3
+    id: 46
   autoAssignIds: 1
   startingLabelId: 1

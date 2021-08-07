@@ -75,3 +75,33 @@ MonoBehaviour:
     color: {r: 0.36783412, g: 0.2859447, b: 1, a: 1}
   - label: untitled3
     color: {r: 1, g: 0.8285674, b: 0.1608578, a: 1}
+  - label: front2
+    color: {r: 0.97703624, g: 0.10429454, b: 1, a: 1}
+  - label: front3
+    color: {r: 0.7185153, g: 0.44902247, b: 1, a: 1}
+  - label: fronttwo1
+    color: {r: 1, g: 0.13739002, b: 0.285967, a: 1}
+  - label: full1
+    color: {r: 1, g: 0.46073857, b: 0.42252028, a: 1}
+  - label: full2
+    color: {r: 1, g: 0.7665214, b: 0.11956012, a: 1}
+  - label: full3
+    color: {r: 1, g: 0.026466966, b: 0.5283066, a: 1}
+  - label: fronttwo2
+    color: {r: 0.8800951, g: 0.15936625, b: 1, a: 1}
+  - label: fronttwo3
+    color: {r: 0.5028868, g: 0.17552781, b: 1, a: 1}
+  - label: back1
+    color: {r: 0.49784756, g: 1, b: 0.71880543, a: 1}
+  - label: back2
+    color: {r: 0.90366536, g: 0.41878378, b: 1, a: 1}
+  - label: back3
+    color: {r: 0.39014804, g: 1, b: 0.3611356, a: 1}
+  - label: front1
+    color: {r: 0.98055464, g: 1, b: 0.3640697, a: 1}
+  - label: mid1
+    color: {r: 0.6139905, g: 1, b: 0.09471321, a: 1}
+  - label: mid2
+    color: {r: 0.5590179, g: 1, b: 0.0697366, a: 1}
+  - label: mid3
+    color: {r: 0.43529862, g: 0.95935845, b: 1, a: 1}
