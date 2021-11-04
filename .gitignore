@@ -36,3 +36,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Data-Generator/
+
+Assets/Materials/images/
