@@ -35,6 +35,15 @@
  - Wrote scripts to randomize rotation of floor and lighting rig, instead of calculating position and angle of the camera moving in a circle around the model.
  - Wrote a script to randomize the angle of the camera within a certain threshold (0 is horizontal, 90 is vertical) with a distance parameter such that the camera is always looking at the model and is a fixed radius away from it.
 
+### Additional Backgrounds
 
+The previous dataset worked well on light surfaces but can mistake non-related objects as the bike pieces on less simple surfaces. I added some texture randomization to increase performance on a wider variety of surfaces. 
+
+#### New additions:
+- Material randomization script 
+- Camera sideways tilt randomization
+- Fine-tuned object placement range 
+
+![examples](https://user-images.githubusercontent.com/64718742/128588879-76982127-d6b7-4562-8bdb-bec7c7c7156b.png)
 
 
