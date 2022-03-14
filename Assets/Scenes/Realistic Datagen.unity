@@ -361,8 +361,8 @@ MonoBehaviour:
   - id: 3
   - id: 4
   constants:
-    randomSeed: 36
-    totalIterations: 50000
+    randomSeed: 523888402
+    totalIterations: 45000
     instanceCount: 1
     instanceIndex: 0
     framesPerIteration: 1
@@ -372,7 +372,7 @@ MonoBehaviour:
       type: {class: SurfaceRandomizer, ns: UnityEngine.Perception.Randomization.Randomizers.SampleRandomizers, asm: Assembly-CSharp}
       data:
         m_Enabled: 1
-        collapsed: 1
+        collapsed: 0
         prefab: {fileID: 919441022}
         rotation:
           collapsed: 0
@@ -386,7 +386,7 @@ MonoBehaviour:
       type: {class: LightRandomizer, ns: UnityEngine.Perception.Randomization.Randomizers.SampleRandomizers, asm: Assembly-CSharp}
       data:
         m_Enabled: 1
-        collapsed: 1
+        collapsed: 0
         prefab: {fileID: 1509732032}
         rotation:
           collapsed: 0
@@ -400,27 +400,21 @@ MonoBehaviour:
       type: {class: ObjectRandomizer, ns: UnityEngine.Perception.Randomization.Randomizers.SampleRandomizers, asm: Assembly-CSharp}
       data:
         m_Enabled: 1
-        collapsed: 1
+        collapsed: 0
         prefabs:
-        - {fileID: 4744363249972922182, guid: 953f0a8eae9150a45b0c0e9e44873288, type: 3}
-        - {fileID: 8663726612108426576, guid: d5c66c137817eb74585d3aa0df5fb2d5, type: 3}
-        - {fileID: 7274316088125579665, guid: 2bdcfe9736cdc6f45a916c8cfc4afc8a, type: 3}
-        - {fileID: 8709380720257291243, guid: 8d63c5bcaa754e445b2762427509c527, type: 3}
-        - {fileID: 6088766390418076280, guid: 0f9d3c706c4151942868c61e5b24c4ef, type: 3}
-        - {fileID: 8214771349535759887, guid: 29f0f9771c60c0c4ab1fbe2b917f8442, type: 3}
-        - {fileID: 4026090532059290031, guid: 87461120570c3b14eb5c63ffa9f7146b, type: 3}
-        - {fileID: 8692101599153351648, guid: f7ab0448e059594489f64d3192ce587a, type: 3}
-        - {fileID: 7174739397950589090, guid: abc9375aba6f39c459427c6bd99b3922, type: 3}
-        - {fileID: 2614289278659132298, guid: a21a4bc4f5c21464db486c38946c1844, type: 3}
-        - {fileID: 7413448442191483900, guid: 833855a845a4f4348ae1d620a3c71ab2, type: 3}
-        - {fileID: 2267637243728007200, guid: 3054f30ee353aab46947a0c83896eda2, type: 3}
-        - {fileID: 6912867429238133187, guid: 9a9789f34a6446944930a3d9033e105d, type: 3}
-        - {fileID: 1936182444801568931, guid: d2e2c0ae8a73e544186c3050db5a612c, type: 3}
-        - {fileID: 5978518265201696889, guid: 42281538812c9e34092ef3183fee3ebc, type: 3}
+        - {fileID: 5528280707090111634, guid: 070574041c98fe843bdc661771e8372f, type: 3}
+        - {fileID: 4615984430518326472, guid: b460929e40e7db54ca2e43db5b5e4c96, type: 3}
+        - {fileID: 5049654065871579852, guid: b2396d5c225958e4189e80c87e60f61a, type: 3}
+        - {fileID: 1652904573516035666, guid: c676633a08bda5242bb83292180ab48d, type: 3}
+        - {fileID: 2546864501501977769, guid: 32bc51ac7badec44997d4a1c54533b50, type: 3}
+        - {fileID: 4386612412237504457, guid: 994fc9b2aba5b5949a88d0b356224e8c, type: 3}
+        - {fileID: 4102058674405366132, guid: 37e3dd498e7a1c849aa1de8e5965da30, type: 3}
+        - {fileID: 5457415561363502765, guid: 8fc0d4c51dd83f043ae6324a589b74b2, type: 3}
+        - {fileID: 2807862215613157529, guid: 1da100194ae2dad46aebda665eac4a3b, type: 3}
         index:
           range:
             minimum: 0
-            maximum: 15
+            maximum: 9
         placementArea:
           collapsed: 0
           x:
@@ -528,8 +522,8 @@ MonoBehaviour:
       type: {class: UniformSampler, ns: UnityEngine.Perception.Randomization.Samplers, asm: Unity.Perception.Runtime}
       data:
         range:
-          minimum: -2
-          maximum: 1.6
+          minimum: -0.5
+          maximum: 0.5
     0000000D:
       type: {class: UniformSampler, ns: UnityEngine.Perception.Randomization.Samplers, asm: Unity.Perception.Runtime}
       data:

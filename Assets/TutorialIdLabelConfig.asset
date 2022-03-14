@@ -105,5 +105,25 @@ MonoBehaviour:
     id: 45
   - label: mid3
     id: 46
+  - label: hubba
+    id: 47
+  - label: UVSanitizer 1
+    id: 48
+  - label: UVSanitizer 22222
+    id: 49
+  - label: UVSanitizer 33
+    id: 50
+  - label: UVSanitizer 4
+    id: 51
+  - label: UVSanitizer 5
+    id: 52
+  - label: UVSanitizer v3
+    id: 53
+  - label: base (1)
+    id: 54
+  - label: long
+    id: 55
+  - label: short
+    id: 56
   autoAssignIds: 1
   startingLabelId: 1

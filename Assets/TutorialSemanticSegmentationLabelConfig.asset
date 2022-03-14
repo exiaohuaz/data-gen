@@ -105,3 +105,23 @@ MonoBehaviour:
     color: {r: 0.5590179, g: 1, b: 0.0697366, a: 1}
   - label: mid3
     color: {r: 0.43529862, g: 0.95935845, b: 1, a: 1}
+  - label: hubba
+    color: {r: 0.2605337, g: 1, b: 0.8520004, a: 1}
+  - label: UVSanitizer 1
+    color: {r: 0.10203463, g: 1, b: 0.867002, a: 1}
+  - label: UVSanitizer 22222
+    color: {r: 1, g: 0.36341265, b: 0.032427967, a: 1}
+  - label: UVSanitizer 33
+    color: {r: 0.48724782, g: 0.58160156, b: 1, a: 1}
+  - label: UVSanitizer 4
+    color: {r: 0.7717446, g: 1, b: 0.083097816, a: 1}
+  - label: UVSanitizer 5
+    color: {r: 1, g: 0.78646034, b: 0.4272455, a: 1}
+  - label: UVSanitizer v3
+    color: {r: 0.14452791, g: 1, b: 0.4971441, a: 1}
+  - label: base (1)
+    color: {r: 1, g: 0.9378871, b: 0.26788914, a: 1}
+  - label: long
+    color: {r: 0.41705644, g: 0.63716465, b: 1, a: 1}
+  - label: short
+    color: {r: 0.19216907, g: 0.2262519, b: 1, a: 1}
